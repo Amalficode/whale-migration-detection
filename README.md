@@ -24,7 +24,7 @@ whale-migration-detection/
 ├── README.md
 ├── requirements.txt
 ├── inference.py        # простой скрипт для запуска модели
-├── notebook_template.ipynb
+├── whale_migration_notebook.ipynb
 ├── examples/           # примеры входных изображений
 └── results/            # сюда сохраняются результаты
 ```
