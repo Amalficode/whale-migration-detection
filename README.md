@@ -24,7 +24,7 @@ whale-migration-detection/
 ├── README.md
 ├── requirements.txt
 ├── inference.py        # простой скрипт для запуска модели
-├── whale_migration_notebook.ipynb
+├── whale_migration_notebook2.ipynb
 ├── examples/           # примеры входных изображений
 └── results/            # сюда сохраняются результаты
 ```
@@ -53,7 +53,7 @@ python inference.py
 
 ## Notebook
 
-Файл `notebook_template.ipynb` содержит заготовку для анализа данных
+Файл `whale_migration_notebook2` содержит заготовку для анализа данных
 в Google Colab или Jupyter.
 
 Вы можете заменить этот файл своим рабочим ноутбуком из курса.
